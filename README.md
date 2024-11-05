@@ -2,7 +2,17 @@
 
 A new Flutter project having UI for file Manager.
 
-<img src="path_to_your_image.png" alt="File Manager UI" width="800" />
+# Screenshot 1
+<img src="https://github.com/PrashantChandraker/file_ui/blob/main/assets/preview2.png" height="400" />
+
+
+# Screenshot 2
+<img src="https://github.com/PrashantChandraker/file_ui/blob/main/assets/preview1.png" height="400" />  
+
+
+
+
+
 
 
 ## Getting Started
