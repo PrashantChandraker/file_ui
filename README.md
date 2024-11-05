@@ -1,6 +1,9 @@
 # file_ui
 
-A new Flutter project.
+A new Flutter project having UI for file Manager.
+
+<img src="path_to_your_image.png" alt="File Manager UI" width="800" />
+
 
 ## Getting Started
 
